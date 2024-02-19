@@ -1,2 +1,3 @@
 *.o
-prog1_mandelbrot_threads/objects/*.o
+prog1_mandelbrot_threads/objs/*.o
+prog2_vecintrin/objs/*.o
